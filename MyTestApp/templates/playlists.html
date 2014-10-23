@@ -17,27 +17,20 @@
         </div>
         <ion-list>
 
-            <ion-item ng-repeat="job in jobList|filter: search" class="item item-icon-right" href="#/app/playlists/{{job.JobNo}}">
-                <span class="item-note">
-                    {{job.JobNo}}
-                </span>
-                {{job.location}}
-                <li class="icon ion-arrow-left-c"></li>
+            <ion-item ng-repeat="job in jobList|filter: search" class="item" href="#/app/playlists/{{job.JobNo}}">
+                <h2>{{job.JobNo}}</h2>
+               
+                <p>
+                    {{job.location}}
+                </p>
+               
+               
                 <ion-option-button class="button  button-large  button-assertive"
                                    ng-click="share(item)">
-                    Add Issue
+                   <div class="padding">  Add Issue</div>
+                   
                 </ion-option-button>
             </ion-item>
         </ion-list>
-        <script id="my-popover.html" type="text/ng-template">
-            <ion-popover-view>
-                <ion-header-bar>
-                    <h1 class="title">My Popover Title</h1>
-                </ion-header-bar>
-                <ion-content>
-                    Hello!
-                </ion-content>
-            </ion-popover-view>
-        </script>
     </ion-content>
 </ion-view>
