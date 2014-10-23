@@ -1,0 +1,6 @@
+F:\MyTestApp\MyTestApp\bin\MyTestApp.dll.config
+F:\MyTestApp\MyTestApp\bin\MyTestApp.dll
+F:\MyTestApp\MyTestApp\bin\MyTestApp.pdb
+F:\MyTestApp\MyTestApp\obj\Debug\MyTestApp.csprojResolveAssemblyReference.cache
+F:\MyTestApp\MyTestApp\obj\Debug\MyTestApp.dll
+F:\MyTestApp\MyTestApp\obj\Debug\MyTestApp.pdb
