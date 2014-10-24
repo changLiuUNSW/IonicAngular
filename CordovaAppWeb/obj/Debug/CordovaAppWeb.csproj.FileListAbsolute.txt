@@ -1,0 +1,6 @@
+F:\CordovaAppWeb\CordovaAppWeb\bin\CordovaAppWeb.dll.config
+F:\CordovaAppWeb\CordovaAppWeb\bin\CordovaAppWeb.dll
+F:\CordovaAppWeb\CordovaAppWeb\bin\CordovaAppWeb.pdb
+F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.csprojResolveAssemblyReference.cache
+F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.dll
+F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.pdb

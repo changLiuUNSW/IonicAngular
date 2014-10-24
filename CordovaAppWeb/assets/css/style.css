@@ -1,0 +1,15 @@
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+.button.animated {
+  opacity: 1 !important;
+  transition: 0.0s all linear;
+}
+.button.animated.ng-hide {
+  opacity: 0 !important;
+}
+.button.animated.ng-hide-add,
+.button.animated.ng-hide-remove {
+  display: block !important;
+}
