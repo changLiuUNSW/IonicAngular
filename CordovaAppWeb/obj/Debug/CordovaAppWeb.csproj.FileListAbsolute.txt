@@ -4,3 +4,9 @@ F:\CordovaAppWeb\CordovaAppWeb\bin\CordovaAppWeb.pdb
 F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.csprojResolveAssemblyReference.cache
 F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.dll
 F:\CordovaAppWeb\CordovaAppWeb\obj\Debug\CordovaAppWeb.pdb
+F:\CordovaApp\CordovaAppWeb\bin\CordovaAppWeb.dll.config
+F:\CordovaApp\CordovaAppWeb\bin\CordovaAppWeb.dll
+F:\CordovaApp\CordovaAppWeb\bin\CordovaAppWeb.pdb
+F:\CordovaApp\CordovaAppWeb\obj\Debug\CordovaAppWeb.csprojResolveAssemblyReference.cache
+F:\CordovaApp\CordovaAppWeb\obj\Debug\CordovaAppWeb.dll
+F:\CordovaApp\CordovaAppWeb\obj\Debug\CordovaAppWeb.pdb
